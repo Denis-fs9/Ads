@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <title> Minha primeira página web </title>
+        <meta name="author" content="Denis Ferreira">
+        <meta name="description" content="Essa página contém tudo que tenho   aprendido em HTML.">
+        <link rel="icon" href="icons8-html-5-48.png">
+        <link rel="stylesheet" href="main.css" type="text/css">
+    
+    </head>
+
+    <body>
+        <h1>Olá mundo</h1>
+
+        <h2>Estou pronto para aprender HTML.</h2>
+        <p>Esse é o ínicio de tudo.</p>
+
+        <hr>
+
+        <h3>Estou aprendendo conceitos de HTML.</h3>
+        <p>E para isso:</p>
+
+        <ol> 
+            <li>... Passei a ler mais sobre desenvolvimento web  
+            <li>... Realizei um planejamento de estudos  
+            <li>... E uso os recursos que encontrei gratuitamente como por exemplo: <strong>visualcode, icons8, youtube, 
+                <abbr title="Mozilla Developer Network">MDN</abbr> </strong> etc.
+        </ol>
+
+        <hr>
+
+        <h4>Quais as maiores dificuldades?</h4>
+        <p>Minha rotina:</p>
+
+            <br> A falta de tempo tem me prejudicado, algumas preocupações me deixam distante dos estudos.
+            <br> As tarefas diárias, o trabalho...
+            <br> Relações familiares, como amigos e família...
+
+
+        <hr>
+        &lt;&lt;&lt; &copy; Denis Ferreira &gt;&gt;&gt;
+        <address>
+            Rua Adélia de Oliveira, 148.<br>
+            Itupeva, <abbr title="São Paulo">SP</abbr>, Bairro Pacaembu.
+        </address>
+
+    </body>
+
+</html>
